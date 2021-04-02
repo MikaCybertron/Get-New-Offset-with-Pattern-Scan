@@ -21,7 +21,7 @@ https://youtu.be/HydqZp70WGg
 - Done, Then just use that AOB Signature to Get New Offset when your mods got updated!
 
 
-NOTE: The HEX/AOB will be changed if there is a big updates from the game or main file has been obfuscated
+NOTE: The HEX/AOB will be changed if there is a big updates from the game or the main file has been obfuscated!
 
 
 # Credits
