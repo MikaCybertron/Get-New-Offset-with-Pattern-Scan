@@ -1,5 +1,7 @@
 # Get New Offset in Specific HEX/AOB Signature with Patter Scan
-The best tool for libunity or native games for someone who doesn't want to open IDA for a second or third time in that games! ^_^
+The best tool to get New Offset for your Current Function with Specific HEX/AOB Signature, good for libunity or native games other SO Files! ^_^
+
+This Pattern Scan only work for Function which have more than 6 or more Instructions and less than that you can't get the correct offset for your function!
 
 
 https://youtu.be/HydqZp70WGg
