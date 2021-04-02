@@ -15,6 +15,7 @@ https://youtu.be/HydqZp70WGg
 ![](https://i.imgur.com/7XsSei2.png)
 
 - then you can create AOB Signature
+
 ![](https://i.imgur.com/92KMtaC.png)
 
 - Done, Then just use that AOB Signature to Get New Offset when your mods got updated!
