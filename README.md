@@ -1,5 +1,5 @@
-# Get New Offset in Specific HEX/AOB Signature with Patter Scan
-The best tool to get New Offset for your Current Function with Specific HEX/AOB Signature, good for libunity or native games other SO Files! ^_^
+# Get New Offset in Specific HEX/AOB Signature with Pattern Scan
+The best tool to get New Offset for your Current Function with Specific HEX/AOB Signature, good for libunity or native games and other SO Files! ^_^
 
 This Pattern Scan only work for Function which have more than 6 or more Instructions and less than that you can't get the correct offset for your function!
 
